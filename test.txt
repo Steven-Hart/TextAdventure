@@ -1,0 +1,12 @@
+#This is a comment line. The next line is deliberatly blank.
+
+L:0:woo=1:location 1: this is location test
+L:1:north=2 south=3:location 2:This is location 2
+L:2:north=3 south=0:location 3:This is location 3
+L:3:north=4:location 4:This is location 4
+L:4:up=5:location 5:This is location 5
+L:5:down=6:location 6:This is location 6
+L:6:sideways=0:testlocation:testdescription
+
+I:0:twig:a stick with a pointy bit:0 0 0 1 2 3::
+I:1:pouch:leather bag:0:F L:0 0 0

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TextAdventure"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="A:/C++ Projects/TextAdventure Zorkish/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;A:/C++ Projects/TextAdventure Zorkish/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;A:/C++ Projects/TextAdventure Zorkish/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;A:/C++ Projects/TextAdventure Zorkish/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;A:/C++ Projects/TextAdventure Zorkish/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cmake_textadventure">
+				<Option output="A:/C++ Projects/TextAdventure Zorkish/cmake-build-debug/cmake_textadventure.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="A:/C++ Projects/TextAdventure Zorkish/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="A:/C++ Projects/TextAdventure Zorkish/includes"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;A:/C++ Projects/TextAdventure Zorkish/cmake-build-debug/Makefile&quot;  VERBOSE=1 cmake_textadventure"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;A:/C++ Projects/TextAdventure Zorkish/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;A:/C++ Projects/TextAdventure Zorkish/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;A:/C++ Projects/TextAdventure Zorkish/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cmake_textadventure/fast">
+				<Option output="A:/C++ Projects/TextAdventure Zorkish/cmake-build-debug/cmake_textadventure.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="A:/C++ Projects/TextAdventure Zorkish/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="A:/C++ Projects/TextAdventure Zorkish/includes"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;A:/C++ Projects/TextAdventure Zorkish/cmake-build-debug/Makefile&quot;  VERBOSE=1 cmake_textadventure/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;A:/C++ Projects/TextAdventure Zorkish/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;A:/C++ Projects/TextAdventure Zorkish/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;A:/C++ Projects/TextAdventure Zorkish/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="A:/C++ Projects/TextAdventure Zorkish/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;A:/C++ Projects/TextAdventure Zorkish/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;A:/C++ Projects/TextAdventure Zorkish/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;A:/C++ Projects/TextAdventure Zorkish/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;A:/C++ Projects/TextAdventure Zorkish/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="A:/C++ Projects/TextAdventure Zorkish/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;A:/C++ Projects/TextAdventure Zorkish/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;A:/C++ Projects/TextAdventure Zorkish/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;A:/C++ Projects/TextAdventure Zorkish/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;A:/C++ Projects/TextAdventure Zorkish/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/About.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/Command.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/CommandAlias.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/CommandDebugTree.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/CommandHelp.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/CommandInventory.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/CommandLook.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/CommandManager.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/CommandMove.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/CommandOpen.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/CommandPut.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/CommandTake.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/Component.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/ComponentGameObject.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/ComponentHealth.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/ComponentLock.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/ComponentMessager.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/GameObject.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/GameState.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/Gameplay.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/Graph.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/Help.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/Inventory.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/Item.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/Location.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/MainMenu.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/NewHighScore.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/Player.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/SelectAdventure.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/ViewHallOfFame.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/World.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/Zorkish.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/main.cpp">
+			<Option target="cmake_textadventure"/>
+		</Unit>
+		<Unit filename="A:/C++ Projects/TextAdventure Zorkish/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
